@@ -1,0 +1,4 @@
+{
+    "pattern": "(:?\[Server\sEvent]\s(?:Player\s)?(?P<Player>\S+)\s(?:\[\S+\s)?(?P<Verb>(?:joins)|(?:left)))|(?:\[Server\sNotification]\sUDP\:\sclient\s(?<Verb>\S+)\s(?<Player>\S+))",
+    "template": "${Player} ${Verb}"
+}
