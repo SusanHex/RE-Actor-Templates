@@ -1,6 +1,6 @@
 # RE-Actor Templates
 
-This repository is intended to story templates for the [RE-Actor](https://github.com/SusanHex/RE-Actor "Reactors Github") program. 
+This repository is intended to store templates for the [RE-Actor](https://github.com/SusanHex/RE-Actor "Reactors Github") program. 
 
 Here is a list of templates:
 
