@@ -1,0 +1,4 @@
+{
+    "pattern": "\\[(?:(?:LEAVE)|(?:JOIN))]\\s(?P<Player>\\S+)\\s(?P<Verb>\\S+)(?:\\sthe\\sgame)",
+    "template": "${Player} ${Verb}"
+}
