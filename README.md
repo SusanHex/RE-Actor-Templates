@@ -6,4 +6,5 @@ Here is a list of templates:
 
 | Template Name | Description |
 |---------------|-------------|
-| `vintagestory_player_leave_join`| This configuration is intended to be used with the Vintage Story game server. It will produce messages like this: `SusanHex joined`, `SusanHex left`, and `SusanHex disconnected` |
+| `vintagestory_player_leave_join` | This configuration is intended to be used with the Vintage Story game server. It will produce messages like this: `SusanHex joined`, `SusanHex left`, and `SusanHex disconnected` |
+| `factorio_player_leave_join` | This configuration is intended to be used with the Factorio game server. It will produce messages like this: `SusanHex left` and `SusanHex joined` |
